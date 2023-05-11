@@ -880,7 +880,7 @@
 
 # Wasm
 - name: wasm
-  github-organization: CosmWasm
+  github-organization: polymerdao
   github-repo: wasmd
   dockerfile: cosmos
   build-target: make build
